@@ -123,7 +123,7 @@
       </MountPoints>
       <Components>
         <Component Subtype="Structural" Count="17" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -414,7 +414,7 @@
       <Components>
         <Component Subtype="MetalGrid" Count="30" />
         <Component Subtype="Structural" Count="100" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -687,7 +687,7 @@
         </MountPoints>   
       <Components>
         <Component Subtype="Structural" Count="10" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -943,7 +943,7 @@
       <Components>
         <Component Subtype="MetalGrid" Count="18" />
         <Component Subtype="Structural" Count="60" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -1224,7 +1224,7 @@
         </MountPoints>    
       <Components>
         <Component Subtype="Structural" Count="16" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -1531,7 +1531,7 @@
       <Components>
         <Component Subtype="MetalGrid" Count="35" />
         <Component Subtype="Structural" Count="95" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -1838,7 +1838,7 @@
         </MountPoints>   
       <Components>
         <Component Subtype="Structural" Count="16" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -2145,7 +2145,7 @@
       <Components>
         <Component Subtype="MetalGrid" Count="35" />
         <Component Subtype="Structural" Count="95" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -2426,7 +2426,7 @@
         </MountPoints>   
       <Components>
         <Component Subtype="Structural" Count="10" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -2681,7 +2681,7 @@
       <Components>
         <Component Subtype="MetalGrid" Count="18" />
         <Component Subtype="Structural" Count="60" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -2923,7 +2923,7 @@
         </MountPoints>   
       <Components>
         <Component Subtype="Structural" Count="5" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -3154,7 +3154,7 @@
       <Components>
         <Component Subtype="MetalGrid" Count="9" />
         <Component Subtype="Structural" Count="30" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -3385,7 +3385,7 @@
         </MountPoints>   
       <Components>
         <Component Subtype="Structural" Count="5" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -3616,7 +3616,7 @@
       <Components>
         <Component Subtype="MetalGrid" Count="9" />
         <Component Subtype="Structural" Count="30" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -3881,7 +3881,7 @@
       </MountPoints>
       <Components>
         <Component Subtype="Structural" Count="18" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -4180,7 +4180,7 @@
       <Components>
         <Component Subtype="MetalGrid" Count="35" />
         <Component Subtype="Structural" Count="105" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -4447,7 +4447,7 @@
         </MountPoints>     
       <Components>
         <Component Subtype="Structural" Count="6" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -4682,7 +4682,7 @@
       <Components>
         <Component Subtype="MetalGrid" Count="9" />
         <Component Subtype="Structural" Count="30" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -4937,7 +4937,7 @@
         </MountPoints>
       <Components>
         <Component Subtype="Structural" Count="9" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />
@@ -5212,7 +5212,7 @@
       <Components>
         <Component Subtype="MetalGrid" Count="18" />
         <Component Subtype="Structural" Count="55" />
-      </Components>
+      <Component Subtype="MetalGrid" Count="10" /></Components>
       <CriticalComponent Subtype="Structural" Index="0" />
       <Variants>
         <Variant Color="Red" Suffix="_red" />

@@ -24,7 +24,7 @@ rules = {
 
 # build time replacement rule
 # WARNING - does not preserve original amount (current level 1/4)
-buildmult = 1
+buildmult = 0.25
 
 # replacement logic
 

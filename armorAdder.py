@@ -30,16 +30,15 @@ for file in files:
 
     # iterate all blocks
     for block in root.iter("Definition"):
-        print(block.attrib)
+        print(block)
 
         # check cubesize
-        if block.find('CubeSize') == "Large":
-
+        if block.find('CubeSize').text == "Large":
+            print("cubesize is large")
             # add componets
             components = block.find('Components')
             ET.SubElement(components, 'Component', {"Subtype":"MetalGrid", "Count":"10"})
 
-        print()
     
     # save changes to tree
     tree.write(filepath)

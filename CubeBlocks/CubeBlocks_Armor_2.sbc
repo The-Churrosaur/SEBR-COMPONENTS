@@ -42,7 +42,7 @@
             </MountPoints>
             <Components>
                 <Component Count="7" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="Structural" />
 
             <Skeleton>
@@ -282,7 +282,7 @@
             <Components>
                 <Component Count="15" Subtype="MetalGrid" />
                 <Component Count="40" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="MetalGrid" />
 
             <Skeleton>
@@ -540,7 +540,7 @@
             </MountPoints>
             <Components>
                 <Component Count="19" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="Structural" />
 
             <Skeleton>
@@ -792,7 +792,7 @@
             <Components>
                 <Component Count="40" Subtype="MetalGrid" />
                 <Component Count="112" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="MetalGrid" />
 
             <Skeleton>
@@ -1049,7 +1049,7 @@
             </MountPoints>
             <Components>
                 <Component Count="6" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="Structural" />
 
             <Skeleton>
@@ -1273,7 +1273,7 @@
             <Components>
                 <Component Count="12" Subtype="MetalGrid" />
                 <Component Count="40" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="MetalGrid" />
 
             <Skeleton>
@@ -1506,7 +1506,7 @@
             </MountPoints>
             <Components>
                 <Component Count="2" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="1" Subtype="Structural" />
 
             <Skeleton>
@@ -1684,7 +1684,7 @@
             <Components>
                 <Component Count="4" Subtype="MetalGrid" />
                 <Component Count="12" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="MetalGrid" />
 
             <Skeleton>
@@ -1887,7 +1887,7 @@
             </MountPoints>
             <Components>
                 <Component Count="23" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="Structural" />
 
             <Skeleton>
@@ -2245,7 +2245,7 @@
             <Components>
                 <Component Count="45" Subtype="MetalGrid" />
                 <Component Count="139" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="MetalGrid" />
 
             <Skeleton>
@@ -2605,7 +2605,7 @@
             </MountPoints>
             <Components>
                 <Component Count="11" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="Structural" />
 
             <Skeleton>
@@ -2839,7 +2839,7 @@
             <Components>
                 <Component Count="5" Subtype="MetalGrid" />
                 <Component Count="45" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="MetalGrid" />
 
             <Skeleton>
@@ -3092,7 +3092,7 @@
             </MountPoints>
             <Components>
                 <Component Count="11" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="Structural" />
 
             <Skeleton>
@@ -3372,7 +3372,7 @@
             <Components>
                 <Component Count="15" Subtype="MetalGrid" />
                 <Component Count="45" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="MetalGrid" />
 
             <Skeleton>
@@ -3665,7 +3665,7 @@
             </MountPoints>
             <Components>
                 <Component Count="22" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="Structural" />
 
             <Skeleton>
@@ -3995,7 +3995,7 @@
             <Components>
                 <Component Count="45" Subtype="MetalGrid" />
                 <Component Count="133" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="MetalGrid" />
 
             <Skeleton>
@@ -4336,7 +4336,7 @@
             </MountPoints>
             <Components>
                 <Component Count="13" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="Structural" />
 
             <Skeleton>
@@ -4608,7 +4608,7 @@
             <Components>
                 <Component Count="25" Subtype="MetalGrid" />
                 <Component Count="75" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="MetalGrid" />
 
             <Skeleton>
@@ -4892,7 +4892,7 @@
             </MountPoints>
             <Components>
                 <Component Count="20" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="Structural" />
 
             <Skeleton>
@@ -5220,7 +5220,7 @@
             <Components>
                 <Component Count="40" Subtype="MetalGrid" />
                 <Component Count="127" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="MetalGrid" />
 
             <Skeleton>
@@ -5553,7 +5553,7 @@
             </MountPoints>
             <Components>
                 <Component Count="5" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="Structural" />
 
             <Skeleton>
@@ -5757,7 +5757,7 @@
             <Components>
                 <Component Count="6" Subtype="MetalGrid" />
                 <Component Count="23" Subtype="Structural" />
-            </Components>
+            <Component Subtype="MetalGrid" Count="10" /></Components>
             <CriticalComponent Index="0" Subtype="MetalGrid" />
 
             <Skeleton>

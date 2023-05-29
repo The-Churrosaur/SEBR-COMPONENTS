@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <BlueprintClasses>
+        
+        <Class>
+            <Id>
+                <TypeId>BlueprintClassDefinition</TypeId>
+                <SubtypeId>SimpleModComponents</SubtypeId>
+            </Id>
+            <DisplayName>DisplayName_BlueprintClass_Components</DisplayName>
+            <Description>Description_BlueprintClass_Components</Description>
+            <Icon>Textures\GUI\Icons\buttons\component.dds</Icon>
+            <HighlightIcon>Textures\GUI\Icons\buttons\component.dds</HighlightIcon>
+            <FocusIcon>Textures\GUI\Icons\buttons\component_focus.dds</FocusIcon>
+            <InputConstraintIcon>Textures\GUI\Icons\filter_ingot.dds</InputConstraintIcon>
+        </Class>
+        
+    </BlueprintClasses>
+    <BlueprintClassEntries>
+
+        <Entry Class="SimpleModComponents" BlueprintSubtypeId="StoneOreToIngotBasic" />
+        <Entry Class="SimpleModComponents" BlueprintSubtypeId="Display" />
+        <Entry Class="SimpleModComponents" BlueprintSubtypeId="SolarCell" />
+        <Entry Class="SimpleModComponents" BlueprintSubtypeId="MotorComponent" />
+        <Entry Class="SimpleModComponents" BlueprintSubtypeId="ComputerComponent" />
+        <Entry Class="SimpleModComponents" BlueprintSubtypeId="StructuralComponent" />
+
+    </BlueprintClassEntries>
+</Definitions>
